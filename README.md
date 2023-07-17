@@ -38,7 +38,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squid3rd&show_icons=true&locale=en&layout=compact" alt="squid3rd" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=squid3rd&show_icons=true&locale=en" alt="squid3rd" /></p>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=squid3rd&" alt="squid3rd" /></p>
 
