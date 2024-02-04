@@ -3,7 +3,7 @@
 <h3 align="center">Sleep Developer from Thailand.</h3>
 
 - 📫 How to reach me **squid3rd88@gmail.com**
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Something
 - ⚡ Fun fact: Orange Juice
 
